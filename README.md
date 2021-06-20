@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+📫 How to reach me: 
+:e-mail: hajcik666pl@gmail.com
+
+
+
 <!--
 **Hajcik/Hajcik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

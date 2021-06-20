@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 How to reach me: 
+📫 How to reach me:\ 
 :e-mail: hajcik666pl@gmail.com
 
 

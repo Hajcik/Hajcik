@@ -1,4 +1,4 @@
-### Hi there, I'm Mariusz - aka [Hajcik] 👋
+### Hi there, I'm Mariusz - aka Hajcik 👋
 
 ## I'm a young and aspiring Backend Developer from Poland!
 - 🔭 I’m currently working on Math Helper App (Qt for Android) 📱
@@ -9,7 +9,7 @@
 - 📜 I'm B.S. Computer Science, currently working on M.S Computer Science at University of Technology in Częstochowa
 
 ### Connect with me!
-[<img align="left" alt="Hajcik | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="Hajcik | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][hajcik666pl@gmail.com]
 [<img align="left" alt="Hajcik | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Hajcik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Hajcik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[email]: hajcik666pl@gmail.com
 [youtube]: https://youtube.com/haaajcik
 [instagram]: https://instagram.com/hajcikpl
 [linkedin]: https://www.linkedin.com/in/mariusz-jędrzejewski-69b776175/

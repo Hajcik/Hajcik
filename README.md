@@ -1,6 +1,6 @@
 # Hi there, I'm Mariusz - aka Hajcik 👋
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCAgZGxQlwStA2RFWmpfcUhA?label=Youtube%20Subscribers&style=for-the-badge">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Hajcik?label=Github%20Followers&style=for-the-badge">
+[<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCAgZGxQlwStA2RFWmpfcUhA?label=Youtube%20Subscribers&style=for-the-badge">][youtube]
+[<img alt="GitHub followers" src="https://img.shields.io/github/followers/Hajcik?label=Github%20Followers&style=for-the-badge">][github]
 
 ## I'm a young and aspiring Backend Developer from Poland!
 - 🔭 I’m currently working on Math Helper App (Qt for Android) 📱
@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+[github]: https://github.com/Hajcik
 [email]: mailto:hajcik666pl@gmail.com
 [youtube]: https://youtube.com/haaajcik
 [instagram]: https://instagram.com/hajcikpl

@@ -3,11 +3,11 @@
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/Hajcik?label=Github%20Followers&style=for-the-badge">][github]
 
 ## I'm a young and aspiring Backend Developer from Poland!
+- 👨‍🎓 I'm B.S. Computer Science, soon M.S. Computer Science.
 - 🔭 I’m currently working on <b>Math Helper App</b> (Qt for Android) 📱
-- 🌱 I’m currently improving <b>C#</b>. I'm learning <b>C++</b> and <b>Python</b> 🧐
-- 👯 I’m looking to collaborate on small <b>Unity / .NET Projects</b>
+- 🌱 I’m currently improving <b>C#</b> and <b>Java</b>. I'm learning <b>C++</b> and <b>Python</b> 🧐
+- 👯 I’m looking to collaborate on small <b>Unity / .NET / Java Projects</b>
 - ⚡ Fun fact: I love Esports 🎮, strawberries 🍓 and meeting new people! 🙋‍♂️
-- 📜 I'm B.S. Computer Science, currently working on M.S Computer Science at University of Technology in Częstochowa
 
 ### Connect with me!
 [<img align="left" alt="Hajcik | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]

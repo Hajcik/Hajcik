@@ -1,11 +1,12 @@
 # Hi there, I'm Mariusz - aka Hajcik 👋
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCAgZGxQlwStA2RFWmpfcUhA?label=Youtube%20Subscribers&style=for-the-badge">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Hajcik?label=Github%20Followers&style=for-the-badge">
 
 ## I'm a young and aspiring Backend Developer from Poland!
 - 🔭 I’m currently working on Math Helper App (Qt for Android) 📱
 - 🌱 I’m currently learning C#, C++ and Python 🧐
 - 👯 I’m looking to collaborate on small Unity / .NET Projects
 - ⚡ Fun fact: I love Esports 🎮, strawberries 🍓 and meeting new people! 🙋‍♂️
-
 - 📜 I'm B.S. Computer Science, currently working on M.S Computer Science at University of Technology in Częstochowa
 
 ### Connect with me!

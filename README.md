@@ -10,6 +10,7 @@
 - ⚡ Fun fact: I love Esports 🎮, strawberries 🍓 and meeting new people! 🙋‍♂️
 
 ### Connect with me!
+[<img align="left" alt="Hajcik | Business Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />][proton]
 [<img align="left" alt="Hajcik | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="Hajcik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Hajcik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -50,6 +51,7 @@ Here are some ideas to get you started:
 
 
 [github]: https://github.com/Hajcik
+[proton]: mailto:hajcik@protonmail.com
 [email]: mailto:hajcik666pl@gmail.com
 [youtube]: https://youtube.com/haaajcik
 [instagram]: https://instagram.com/hajcikpl

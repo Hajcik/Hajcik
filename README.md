@@ -4,9 +4,10 @@
 
 ## I'm a young and aspiring Backend Developer from Poland!
 - 👨‍🎓 I'm B.S. Computer Science, soon M.S. Computer Science.
-- 🔭 I’m currently working on <b>Math Helper App</b> (Qt for Android) 📱
-- 🌱 I’m currently improving <b>C#</b> and <b>Java</b>. I'm learning <b>C++</b> and <b>Python</b> 🧐
-- 👯 I’m looking to collaborate on small <b>Unity / .NET / Java Projects</b>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently improving <b>C#</b> with Test Automation. I'm learning <b>Python</b> 🧐
+- 👯 <b>Test Automation Intern</b> at Accenture
+- 👯 <b>Junior Community Manager</b> at Beast Games
 - ⚡ Fun fact: I love Esports 🎮, strawberries 🍓 and meeting new people! 🙋‍♂️
 
 ### Connect with me!

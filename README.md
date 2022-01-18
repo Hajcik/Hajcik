@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently improving <b>C#</b> with Test Automation. I'm learning <b>Python</b> 🧐
 - 👯 <b>Test Automation Intern</b> at Accenture
-- 👯 <b>Junior Community Manager</b> at Beast Games
 - ⚡ Fun fact: I love Esports 🎮, strawberries 🍓 and meeting new people! 🙋‍♂️
 
 ### Connect with me!
